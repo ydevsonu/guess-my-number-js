@@ -3,8 +3,8 @@
 A sleek, interactive web-based game where players challenge themselves to find a hidden number.  
 This project showcases fundamental JavaScript DOM manipulation, event handling, and state management.
 
-🔗 **Live Demo:** (Netlify link here)  
-🔗 **GitHub Repository:** (Repo link here)
+🔗 **Live Demo:** https://guess-the-number-js-by-ydevsonu.netlify.app/
+🔗 **GitHub Repository:** https://github.com/ydevsonu/guess-my-number-js
 
 ---
 
